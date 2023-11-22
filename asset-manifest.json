@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Far_Away_Travel/static/css/main.e2f04bb8.css",
+    "main.css": "/Far_Away_Travel/static/css/main.a1412ae5.css",
     "main.js": "/Far_Away_Travel/static/js/main.fe96c6d8.js",
     "index.html": "/Far_Away_Travel/index.html",
-    "main.e2f04bb8.css.map": "/Far_Away_Travel/static/css/main.e2f04bb8.css.map",
+    "main.a1412ae5.css.map": "/Far_Away_Travel/static/css/main.a1412ae5.css.map",
     "main.fe96c6d8.js.map": "/Far_Away_Travel/static/js/main.fe96c6d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2f04bb8.css",
+    "static/css/main.a1412ae5.css",
     "static/js/main.fe96c6d8.js"
   ]
 }
